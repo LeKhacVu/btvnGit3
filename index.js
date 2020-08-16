@@ -1,3 +1,3 @@
-var baiTapBuoi1 = function(){
-    console.log(baiTapBuoi1)
+var baiTapBuoi2 = function(){
+    console.log(baiTapBuoi2)
 }
